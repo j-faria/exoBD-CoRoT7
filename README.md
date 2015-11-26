@@ -6,7 +6,7 @@ _A radial-velocity investigation of the CoRoT-7 planetary system_ by João Faria
 
 ### CoRoT-7 data
 
-The HARPS radial-velocity observations are in the file `CCCCCC.txt`
+The HARPS radial-velocity observations are in the file [`CCCCCC.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/corot7.txt)
 
 ### birth-death MCMC
 
