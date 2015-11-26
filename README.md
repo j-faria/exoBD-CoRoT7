@@ -29,6 +29,12 @@ The input parameters and complete output analysed in the paper are available in 
 
 If you use the code or results presented here, pleace cite the paper
 
-`bibtex`
+    @article{faria+2015,
+       author = {{Faria}, J.~P. and Haywood, R.~D. and Brewer, B.~J. and Figueira, P. and Oshagh, M. and Santerne, A. and Santos, N.~C.},
+        title = {A radial-velocity investigation of the CoRoT-7 planetary system},
+      journal = {},
+         year = 2015,
+       eprint = {}
+    }
 
 
