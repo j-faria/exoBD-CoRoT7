@@ -1,20 +1,22 @@
-# A radial-velocity investigation of CoRoT-7
+## Separating planets and stellar activity using radial velocities
 
-This repository contains the data, code and results from the paper 
 
-_A radial-velocity investigation of the CoRoT-7 planetary system_ by João Faria et al.
+This repository contains the data, code and results from the paper
+_Separating planets and stellar activity using radial velocities_
+by João P. Faria, Raphaëlle D. Haywood, Brendon J. Brewer, Pedro Figueira, Mahmoud Oshagh, Alexandre Santerne and Nuno C. Santos.
 
-### CoRoT-7 data
 
-The HARPS radial-velocity observations are in the file [`CCCCCC.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/corot7.txt)
+#### CoRoT-7 data
 
-### birth-death MCMC
+The HARPS radial-velocity observations are in the file [`corot7.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/corot7.txt)
+
+#### birth-death MCMC
 
 The code used to sample from the joint posterior distribution and calculate the evidence of the model can be found [here](https://github.com/eggplantbren/Exoplanet/tree/gp_quasiperiodic_noise)
 
 Note that it is licensed under the GNU General Public Licence, version 3.
 
-### Results
+#### Input and Results
 
 The input parameters and complete output analysed in the paper are available in this repository, in the following files:
 
@@ -31,7 +33,7 @@ If you use the code or results presented here, pleace cite the paper
 
     @article{faria+2015,
        author = {{Faria}, J.~P. and Haywood, R.~D. and Brewer, B.~J. and Figueira, P. and Oshagh, M. and Santerne, A. and Santos, N.~C.},
-        title = {A radial-velocity investigation of the CoRoT-7 planetary system},
+        title = {Separating planets and stellar activity using radial velocities},
       journal = {},
          year = 2015,
        eprint = {}
