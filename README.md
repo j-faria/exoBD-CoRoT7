@@ -25,7 +25,7 @@ Note that it is licensed under the GNU General Public Licence, version 3.
 The input parameters and complete output analysed in the paper are available in this repository, in the following files:
 
 - [`OPTIONS`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/OPTIONS.txt): the input option to DNest3
-- [`run.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/run.txt): the log of the run
+- [`run_log.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/run_log.txt): the log of the run
 - [`sample.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/sample.txt), [`sample_info.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/sample_info.txt), [`levels.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/levels.txt): step-by-step output with samples from the mixture of constrained priors and the diffusive nested smapling levels
 - [`posterior_sample.txt`](https://github.com/j-faria/exoBD-CoRoT7/blob/master/posterior_sample.txt): samples from the joint posterior distribution
 
