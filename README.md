@@ -35,7 +35,7 @@ The input parameters and complete output analysed in the paper are available in 
 
 If you use the code or results presented here, pleace cite the paper
 
-    @ARTICLE{2016arXiv160107495F,
+    @ARTICLE{Faria2016,
        author = {{Faria}, J.~P. and {Haywood}, R.~D. and {Brewer}, B.~J. and 
                  {Figueira}, P. and {Oshagh}, M. and {Santerne}, A. and {Santos}, N.~C.
                 },
