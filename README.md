@@ -35,12 +35,20 @@ The input parameters and complete output analysed in the paper are available in 
 
 If you use the code or results presented here, pleace cite the paper
 
-    @article{Faria+2015,
-       author = {{Faria}, J.~P. and Haywood, R.~D. and Brewer, B.~J. and Figueira, P. and Oshagh, M. and Santerne, A. and Santos, N.~C.},
-        title = {Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities},
-      journal = {A\&A},
-         year = 2015,
-       eprint = {}
+    @ARTICLE{2016arXiv160107495F,
+       author = {{Faria}, J.~P. and {Haywood}, R.~D. and {Brewer}, B.~J. and 
+                 {Figueira}, P. and {Oshagh}, M. and {Santerne}, A. and {Santos}, N.~C.
+                },
+       title = "{Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities}",
+     journal = {ArXiv e-prints},
+     archivePrefix = "arXiv",
+      eprint = {1601.07495},
+      primaryClass = "astro-ph.EP",
+    keywords = {Astrophysics - Earth and Planetary Astrophysics},
+        year = 2016,
+       month = jan,
+      adsurl = {http://adsabs.harvard.edu/abs/2016arXiv160107495F},
+     adsnote = {Provided by the SAO/NASA Astrophysics Data System}
     }
 
 
