@@ -2,8 +2,10 @@
 
 
 This repository contains the data, code and results from the paper
-_Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities_
-by João P. Faria, Raphaëlle D. Haywood, Brendon J. Brewer, Pedro Figueira, Mahmoud Oshagh, Alexandre Santerne and Nuno C. Santos. The article has been accepted for publication in section 10 of A&A.
+
+*Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities*  
+J. P. Faria, R. D. Haywood, B. J. Brewer, P. Figueira, M. Oshagh, A. Santerne and N. C. Santos  
+A&A, 588 (2016) A31, DOI: http://dx.doi.org/10.1051/0004-6361/201527899
 
 
 #### CoRoT-7 data
@@ -35,20 +37,17 @@ The input parameters and complete output analysed in the paper are available in 
 
 If you use the code or results presented here, pleace cite the paper
 
-    @ARTICLE{Faria2016,
-       author = {{Faria}, J.~P. and {Haywood}, R.~D. and {Brewer}, B.~J. and 
-                 {Figueira}, P. and {Oshagh}, M. and {Santerne}, A. and {Santos}, N.~C.
-                },
-       title = "{Uncovering the planets and stellar activity of CoRoT-7 using only radial velocities}",
-     journal = {ArXiv e-prints},
-     archivePrefix = "arXiv",
-      eprint = {1601.07495},
-      primaryClass = "astro-ph.EP",
-    keywords = {Astrophysics - Earth and Planetary Astrophysics},
-        year = 2016,
-       month = jan,
-      adsurl = {http://adsabs.harvard.edu/abs/2016arXiv160107495F},
-     adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    @article{Faria2016,
+    author = {{Faria, J. P.} and {Haywood, R. D.} and {Brewer, B. J.} and {Figueira, P.} and {Oshagh, M.} and {Santerne, A.} and {Santos, N. C.}},
+    title = {Uncovering the planets and stellar activity of CoRoT-7   using only radial velocities ⋆},
+    DOI= "10.1051/0004-6361/201527899",
+    url= "http://dx.doi.org/10.1051/0004-6361/201527899",
+    journal = {A&A},
+    year = 2016,
+    volume = 588,
+    pages = "A31",
+    month = "",
     }
+
 
 
